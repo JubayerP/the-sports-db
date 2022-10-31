@@ -34,3 +34,5 @@ const searchPlayers = () => {
 
   searchField.value = ``;
 };
+
+loadPlayers('')
